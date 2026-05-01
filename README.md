@@ -1,1 +1,1 @@
-Download and Install the "PixelFightingGame.application" to play.
+To find the .exe file, navigate to find releases section and click tags
