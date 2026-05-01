@@ -1,1 +1,1 @@
-"Download and Install the PixelFightingGame.application to play." 
+Download and Install the "PixelFightingGame.application" to play.
